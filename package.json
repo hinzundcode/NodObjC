@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "2",
+    "ffi": "https://github.com/node-ffi/node-ffi#811ad02e730d40d0402aef63148b32f830e738de",
     "function-class": "^1.0.0",
     "ref": "^1.3.2",
     "ref-struct": "^1.0.2",
